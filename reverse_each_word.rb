@@ -16,5 +16,5 @@ def reverse_each_word(string)
     test_array.join(" ")
   end
     reverse_each_word ("I really enjoy you")
-    
+  end
   
