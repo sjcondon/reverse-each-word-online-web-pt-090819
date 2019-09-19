@@ -1,8 +1,8 @@
 def  reverse_each_word_with_eah(string)
-  orginal_array = string.split(" ") #I e n j o y...
+  orginal_array = string.split(" ") 
   return_array = []
   orginal_array.each do|string| 
-  return array << string.reverse #o u y y o j n e..
+  return array << string.reverse 
 
 end
   return_array.join(" ") #ouyyone...
@@ -18,5 +18,4 @@ def reverse_each_word(string)
   end
     reverse_each_word ("I really enjoy you")
     
-    "uoy yojne yllaer I"
-    I e n j o y
+  
