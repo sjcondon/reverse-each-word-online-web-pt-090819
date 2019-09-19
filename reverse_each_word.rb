@@ -6,6 +6,7 @@ def  reverse_each_word_with_eah(string)
 
 end
   return_array.join(" ") 
+end
 
 def reverse_each_word(string)
   array = string.split(" ")
@@ -16,5 +17,5 @@ def reverse_each_word(string)
     test_array.join(" ")
   end
     reverse_each_word ("I really enjoy you")
-  end
+  
   
