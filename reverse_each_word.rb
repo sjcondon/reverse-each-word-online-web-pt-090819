@@ -5,8 +5,8 @@ def  reverse_each_word_with_eah(string)
   return array << string.reverse
 end
   reverse_each_word.each do |string|
-    end
-  return.array.join(" ")
+end
+  return_array.join(" ")
 end
 
 def reverse_each_word(string)
