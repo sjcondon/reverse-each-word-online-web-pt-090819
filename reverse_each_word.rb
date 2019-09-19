@@ -5,8 +5,7 @@ def  reverse_each_word_with_eah(string)
   return array << string.reverse 
 
 end
-  return_array.join(" ") #ouyyone...
-end
+  return_array.join(" ") 
 
 def reverse_each_word(string)
   array = string.split(" ")
